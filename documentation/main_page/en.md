@@ -12,5 +12,5 @@ This wiki serves as a source of information for various projects of mine, as wel
 ## [Terraria](terraria)
 Terraria is a sandbox RPG game by Re-Logic. There is a collection of modding resources and other useful information [here](terraria).
 
-## Minecraft(mc)
-Minecraft is a popular sandbox adventure game with a rich modding community. Documented [here](mc) is numerous articles on modding and proprietary software (i.e. [Lunar Client](mc/modifications/lunar-client)) associated with the game/.
+## [Minecraft](mc)
+Minecraft is a popular sandbox adventure game with a rich modding community. Documented [here](mc) are numerous articles on modding and proprietary software (i.e. [Lunar Client](mc/modifications/lunar-client)) associated with the game/.
